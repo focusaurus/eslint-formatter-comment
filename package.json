@@ -1,0 +1,21 @@
+{
+  "name": "eslint-formatter-comment",
+  "version": "1.0.0",
+  "description": "Compact formatter for ESLint errors including a JavaScript comment to disable the rule",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/focusaurus/eslint-formatter-comment.git"
+  },
+  "keywords": [
+    "eslint",
+    "formatter",
+    "comment"
+  ],
+  "author": "Peter Lyons <pete@peterlyons.com> (http://peterlyons.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/focusaurus/eslint-formatter-comment/issues"
+  },
+  "homepage": "https://github.com/focusaurus/eslint-formatter-comment"
+}
