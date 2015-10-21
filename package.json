@@ -1,6 +1,6 @@
 {
   "name": "eslint-formatter-comment",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Compact formatter for ESLint errors including a JavaScript comment to disable the rule",
   "main": "index.js",
   "repository": {
