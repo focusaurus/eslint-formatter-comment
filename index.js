@@ -41,7 +41,7 @@ module.exports = function(results) {
             output += ":" + (message.column || 0);
             output += " " + getMessageType(message);
             output += " - " + message.message;
-            output += message.ruleId ? " /* eslint " + message.ruleId + ":0 */" : "";
+            output += message.ruleId ? " // eslint-disable-line " + message.ruleId : "";
             output += "\n";
         });
 
